@@ -34,4 +34,4 @@ An Excel dashboard analyzing Electric Vehicle (EV) sales data across India from 
 
 # About Me
 Data Analytics fresher | Excel · Power BI · Tableau · SQL · Python  
-[LinkedIn](https://linkedin.com/in/your-profile) | tsolanki218@gmail.com
+[LinkedIn]www.linkedin.com/in/tanishq-solanki-4b3920230 | tsolanki218@gmail.com
